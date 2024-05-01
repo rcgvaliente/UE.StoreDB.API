@@ -1,0 +1,6 @@
+@UE.StoreDB.API_HostAddress = http://localhost:5181
+
+GET {{UE.StoreDB.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
